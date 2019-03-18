@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnkoala" type="id" />
+    <item name="btnpenguin" type="id" />
+    <item name="btntulip" type="id" />
+    <item name="container" type="id" />
+    <item name="menuContainer" type="id" />
+</resources>
